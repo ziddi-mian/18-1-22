@@ -338,3 +338,4 @@ function endOfMonth(date)
 dt = new Date(); 
 
 console.log(endOfMonth(dt).toString());
+
