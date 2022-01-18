@@ -272,6 +272,8 @@ console.log(diff_years(dt1, dt2));
 
 
 
+
+
 // Write a JavaScript function to get the week start date.  
 
 function startOfWeek(date)
